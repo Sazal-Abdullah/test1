@@ -1,6 +1,6 @@
 # Local Installation
 
-run git clone https://github.com/Sazal-Abdullah/test_job.git
+run git clone https://github.com/Sazal-Abdullah/test1.git
 
 cd repository_name
 
