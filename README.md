@@ -6,7 +6,6 @@ cd repository_name
 
 
 
-
 # Terminal Run:
 
 composer install 
